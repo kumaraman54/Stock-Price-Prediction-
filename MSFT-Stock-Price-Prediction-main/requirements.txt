@@ -1,0 +1,8 @@
+Python >=3.8
+Jupyter Notebook
+Pandas
+Numpy
+Mathplotlib
+sk learn
+yfinance
+keras
